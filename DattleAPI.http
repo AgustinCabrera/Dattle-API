@@ -1,0 +1,6 @@
+@DattleAPI_HostAddress = http://localhost:5052
+
+GET {{DattleAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
